@@ -2,7 +2,7 @@
 
 ## Greetings :sparkles:
 
-At Syeta Labs we are keen to see your passion and coding style.
+At WaveZync we are keen to see your passion and coding style.
 So let's get started.
 
 ## Your Task :rocket:
@@ -57,10 +57,10 @@ Since you are architecting this software system, we will ask you questions about
 
 - You should manage a GitHub repository to complete the task. Make it a private repository and add the mentioned Syeta member as a collaborator after the completion.
 
-- The repository can use syeta-hiring-mobile-challenge as the name
+- The repository can use wavezync-hiring-frontend-challenge as the name
 
 - Write a good README about the architecture of your system.
 
-- Send an email to hr@syetalabs.io after completion
+- Send an email to hr@wavezync.com after completion
 
 **Happy Coding :tada:**
