@@ -1,2 +1,2 @@
 # hiring-challenges
-Wanna work with SyetaLabs ? You came to right place
+Wanna work with WaveZync? You came to right place
